@@ -12,10 +12,6 @@ header{
     padding-bottom: 50px;
 }
 
-h1, h2{
-    font-family: 'Press Start 2P', cursive;
-}
-
 header h1{
     color:white;
     font-size: 50px;
@@ -41,6 +37,16 @@ h2{
     font-size: 30px;
     color: #e70c19;
     margin: 40px 0 10px;
+}
+
+h1, h2{
+    font-family: 'Press Start 2P', cursive;
+}
+
+p.caption{
+    color: #9999;
+    font-style: italic;
+    margin-top: 0;
 }
 
 a{
@@ -72,8 +78,3 @@ footer a:hover{
     background-color: transparent;
 }
 
-p.caption{
-    color: #9999;
-    font-style: italic;
-    margin-top: 0;
-}
